@@ -38,7 +38,7 @@ function draw() {
     size = size - 1; 
   }
 
-  //incrémentation des la couleurs 
+  //incrémentation des couleurs 
   r = (r + 1) % 256;
   g = (g + 2) % 256;
   b = (b + 3) % 256;
